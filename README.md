@@ -6,4 +6,4 @@
 
 🎖️ I have cerftications as follows: Google Cyber Security, CompTIA Security+ (SY-701), AWS Certified Cloud Practitioner, HashiCorp Certified Terraform Associate
 
-🛜 My Contact information is listed in my bio. Thanks
+🛜 My Contact information is listed under my profile. Thanks
